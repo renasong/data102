@@ -1,0 +1,300 @@
+Primary-general indicator,Candidate ID,Chamber Endorsed?,Main Street Endorsed?,Tea Party Endorsed?,House Freedom Support?,Koch Support?,Club for Growth Endorsed?,Susan B. Anthony Endorsed?,Right to Life Endorsed?,NRA Endorsed?,Great America Endorsed?,Bannon Endorsed?,Trump Endorsed?,Rep Party Support?,No Labels Support?,VoteVets Endorsed?,WFP Endorsed?,Indivisible Endorsed?,PCCC Endorsed?,Justice Dems Endorsed?,Our Revolution Endorsed?,Sanders Endorsed?,Warren Endorsed? ,Biden Endorsed?,Guns Sense Candidate?,Emily Endorsed?,Party Support?,Obama Alum?,STEM?,Self-Funder?,Elected Official?,LGBTQ?,Veteran?,Race,Won Primary,Primary %,Partisan Lean,General Status,Primary Runoff Status,Primary Status,Race Primary Election Date,Race Type,Office Type,District,State,Tot Donation Size
+P2018,H8GA07144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,White,0,11.02,-12.73,0,0,0,5/22/18,Regular,Representative,U.S. House Georgia District 7,GA,1000
+P2018,H8CA52136,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.57,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House California District 52,CA,2000
+P2018,H8TX32098,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,Nonwhite,1,38.43,-4.98,On the Ballot,1,1,3/6/18,Regular,Representative,U.S. House Texas District 32,TX,24860
+P2018,H8NY23225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,15.33,-13.93,0,0,0,6/26/18,Regular,Representative,U.S. House New York District 23,NY,1000
+P2018,H8ND00096,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,56.22,0.0,On the Ballot,0,1,6/12/18,Regular,Representative,U.S. House North Dakota At-large District,ND,93450
+P2018,S8AZ00247,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.9,0.0,0,0,0,8/28/18,Regular,Senator,U.S. Senate Arizona,AZ,731848
+P2018,H4NE02054,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,48.360001,-5.98,0,0,0,5/15/18,Regular,Representative,U.S. House Nebraska District 2,NE,142277
+P2018,H8IA03124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,White,1,57.799999,-4.1100001000000015,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House Iowa District 3,IA,304134
+P2018,H8OH12222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14.26,0.0,0,0,0,5/8/18,Regular,Representative,U.S. House Ohio District 12,OH,252170
+P2018,H8OH12180,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,28.72,0.0,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House Ohio District 12,OH,2012958
+P2018,H8NY24090,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,62.380001,4.1399998999999985,On the Ballot,0,1,6/26/18,Regular,Representative,U.S. House New York District 24,NY,34471
+P2018,H8CA07072,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30.85,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House California District 7,CA,30000
+P2018,S8PA00320,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,63.03,0.0,On the Ballot,0,1,5/15/18,Regular,Senator,U.S. Senate Pennsylvania,PA,208909
+P2018,H8NY25121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,19.77,14.62,0,0,0,6/26/18,Regular,Representative,U.S. House New York District 25,NY,1000
+P2018,H8FL27037,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25.7,0.0,0,0,0,8/28/18,Regular,Representative,U.S. House Florida District 27,FL,1000
+P2018,H8CO07094,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,6/26/18,Regular,Representative,U.S. House Colorado District 7,CO,200
+P2018,H8WV01067,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,38.119999,-40.41,0,0,0,5/8/18,Regular,Representative,U.S. House West Virginia District 1,WV,10200
+P2018,H8TX01044,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,White,0,38.959999,-48.73,0,0,0,3/6/18,Regular,Representative,U.S. House Texas District 1,TX,1000
+P2018,H8TX14120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,Nonwhite,1,79.83000200000002,-22.33,On the Ballot,0,1,3/6/18,Regular,Representative,U.S. House Texas District 14,TX,4520
+P2018,H2MI11133,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11.3,0.0,0,0,0,8/7/18,Regular,Representative,U.S. House Michigan District 11,MI,27
+P2018,H8NH02283,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22.9,0.0,0,0,0,9/11/18,Regular,Representative,U.S. House New Hampshire District 2,NH,21050
+P2018,S8WV00150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19.97,0.0,0,0,0,5/8/18,Regular,Senator,U.S. Senate West Virginia,WV,1328754
+P2018,H8PA11061,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.16,0.0,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 13,PA,155376
+P2018,H8OR04142,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23.62,0.0,0,0,0,5/15/18,Regular,Representative,U.S. House Oregon District 4,OR,486
+P2018,H8GA07201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,White,1,27.280001,-12.73,On the Ballot,1,1,5/22/18,Regular,Representative,U.S. House Georgia District 7,GA,15000
+P2018,S8ME00130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,6/12/18,Regular,Senator,U.S. Senate Maine,ME,52862
+P2018,S8IN00171,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,41.17,0.0,On the Ballot,0,1,5/8/18,Regular,Senator,U.S. Senate Indiana,IN,708090
+P2018,H8SC04342,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24.95,0.0,0,0,1,6/12/18,Regular,Representative,U.S. House South Carolina District 4,SC,34944
+P2018,H8NY22151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,100.0,-14.26,On the Ballot,0,1,6/26/18,Regular,Representative,U.S. House New York District 22,NY,279712
+P2018,H8IL14166,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,White,0,13.4,-7.96,0,0,0,3/20/18,Regular,Representative,U.S. House Illinois District 14,IL,4760
+P2018,H8WA05193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,White,1,0.0,-14.81,On the Ballot,0,1,8/7/18,Regular,Representative,U.S. House Washington District 5,WA,200615
+P2018,H8PA15260,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49.51,0.0,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 7,PA,25567
+P2018,H8TX27072,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36.09,0.0,0,0,1,3/6/18,Regular,Representative,U.S. House Texas District 27,TX,75000
+P2018,H8TN02119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,48.2,0.0,On the Ballot,0,1,8/2/18,Regular,Representative,U.S. House Tennessee District 2,TN,14000
+P2018,H8OR02153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.619999900000002,-21.68,0,0,0,5/15/18,Regular,Representative,U.S. House Oregon District 2,OR,10000
+P2018,H8SC04284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.48,0.0,0,0,0,6/12/18,Regular,Representative,U.S. House South Carolina District 4,SC,5000
+P2018,H8CA50106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,White,0,35.509998,-19.48,0,0,0,6/5/18,Regular,Representative,U.S. House California District 50,CA,54200
+P2018,H6CA25177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,White,0,38.259998,2.02,0,0,0,6/5/18,Regular,Representative,U.S. House California District 25,CA,43710
+P2018,S8ND00104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26.87,0.0,0,0,0,6/12/18,Regular,Representative,U.S. House North Dakota At-large District,ND,200
+P2018,H8IL06139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,White,1,29.5,0.67000002,On the Ballot,0,1,3/20/18,Regular,Representative,U.S. House Illinois District 6,IL,158710
+P2018,H8IL06147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,17.4,0.67000002,0,0,0,3/20/18,Regular,Representative,U.S. House Illinois District 6,IL,2500
+P2018,H8NM02222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12.42,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House New Mexico District 2,NM,27177
+P2018,H8TX27049,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,33.83,0.0,On the Ballot,1,1,3/6/18,Regular,Representative,U.S. House Texas District 27,TX,15568
+P2018,H8VA05155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,White,1,100.0,-12.51,On the Ballot,0,1,6/12/18,Regular,Representative,U.S. House Virginia District 5,VA,14053
+P2018,H8OK01124,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21.85,0.0,0,0,0,6/26/18,Regular,Representative,U.S. House Oklahoma District 1,OK,370348
+P2018,H8NC02110,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Nonwhite,1,56.0,-12.98,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House North Carolina District 2,NC,7500
+P2018,H8NY19256,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4.8600001,-6.079999900000002,0,0,0,6/26/18,Regular,Representative,U.S. House New York District 19,NY,13944
+P2018,H8MD01193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,White,1,38.0,-29.66,On the Ballot,0,1,6/26/18,Regular,Representative,U.S. House Maryland District 1,MD,15500
+P2018,H8FL15222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34.1,0.0,0,0,0,8/28/18,Regular,Representative,U.S. House Florida District 15,FL,17672
+P2018,H8MI13284,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Nonwhite,0,6.3000002,60.720001,0,0,0,8/7/18,Regular,Representative,U.S. House Michigan District 13,MI,37000
+P2018,H6CA19113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,Nonwhite,1,100.0,11.87,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 21,CA,14000
+P2018,H8TX02166,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,27.42,0.0,On the Ballot,1,1,3/6/18,Regular,Representative,U.S. House Texas District 2,TX,164908
+P2018,H8CO06229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,White,1,65.940002,5.420000099999998,On the Ballot,0,1,6/26/18,Regular,Representative,U.S. House Colorado District 6,CO,167334
+P2018,H8SC01116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,White,1,71.5,-16.879998999999998,On the Ballot,0,1,6/12/18,Regular,Representative,U.S. House South Carolina District 1,SC,1000
+P2018,H0OK01089,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20.17,0.0,0,0,0,6/26/18,Regular,Representative,U.S. House Oklahoma District 1,OK,9128
+P2018,H8CA44109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41.47,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House California District 44,CA,2000
+P2018,H8PA15286,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Pennsylvania District 4,PA,4500
+P2018,H8KS03155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Nonwhite,1,37.299999,-4.0100002,On the Ballot,0,1,8/7/18,Regular,Representative,U.S. House Kansas District 3,KS,744592
+P2018,H8PA05287,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,Nonwhite,0,3.98,25.540001,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 5,PA,86
+P2018,H8NM01406,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,White,0,3.8,13.77,0,0,0,6/5/18,Regular,Representative,U.S. House New Mexico District 1,NM,5000
+P2018,H8PA04116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,White,1,72.559998,15.27,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Pennsylvania District 4,PA,400168
+P2018,H8NY03151,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,6/26/18,Regular,Representative,U.S. House New York District 3,NY,4000
+P2018,H8NY19181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Nonwhite,1,21.99,-6.079999900000002,On the Ballot,0,1,6/26/18,Regular,Representative,U.S. House New York District 19,NY,243003
+P2018,H8CA43143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27.54,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House California District 43,CA,0
+P2018,H8CA01257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,White,1,43.650002,-21.379999,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 1,CA,2092
+P2018,H8AR01029,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Nonwhite,1,100.0,-34.810001,On the Ballot,0,1,5/22/18,Regular,Representative,U.S. House Arkansas District 1,AR,1000
+P2018,S8MA00276,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,55.3,0.0,On the Ballot,0,1,9/4/18,Regular,Senator,U.S. Senate Massachusetts,MA,3000
+P2018,H8MS03133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.16,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House Mississippi District 3,MS,13500
+P2018,S8MT00218,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19.12,0.0,0,0,0,6/5/18,Regular,Senator,U.S. Senate Montana,MT,5000
+P2018,H8CA08112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,White,0,59.610001,-17.33,0,0,0,6/5/18,Regular,Representative,U.S. House California District 8,CA,5831
+P2018,H6MI07223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,White,1,85.199997,-16.059998999999998,On the Ballot,0,1,8/7/18,Regular,Representative,U.S. House Michigan District 7,MI,200244
+P2018,H8NE02220,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,51.639999,-5.98,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Nebraska District 2,NE,5402
+P2018,H8NH01152,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,48.0,0.0,On the Ballot,0,1,9/11/18,Regular,Representative,U.S. House New Hampshire District 1,NH,28435
+P2018,H8PA15187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Nonwhite,0,25.43,0.07,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 7,PA,63317
+P2018,H8TN02200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.3,0.0,0,0,0,8/2/18,Regular,Representative,U.S. House Tennessee District 2,TN,5000
+P2018,H8TX16109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,Nonwhite,1,61.529999,35.419998,On the Ballot,0,1,3/6/18,Regular,Representative,U.S. House Texas District 16,TX,464616
+P2018,H6OH02292,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,34.400002,-17.360001,0,0,0,5/8/18,Regular,Representative,U.S. House Ohio District 2,OH,500
+P2018,H8TX26124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,White,1,52.66,-31.629999,On the Ballot,0,1,3/6/18,Regular,Representative,U.S. House Texas District 26,TX,1685
+P2018,H4CA24142,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,78.37,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 24,CA,48000
+P2018,H8TX16083,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,White,0,21.969999,35.419998,0,0,0,3/6/18,Regular,Representative,U.S. House Texas District 16,TX,5250
+P2018,H8IA01094,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,White,1,66.800003,-1.73,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House Iowa District 1,IA,232849
+P2018,H8IL04159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Nonwhite,0,21.9,65.089996,0,0,0,3/20/18,Regular,Representative,U.S. House Illinois District 4,IL,8200
+P2018,H8NY19173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,White,0,13.18,-6.079999900000002,0,0,0,6/26/18,Regular,Representative,U.S. House New York District 19,NY,8444
+P2018,H6CA31134,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 31,CA,3265
+P2018,H8CA45189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,White,0,13.06,-1.4299999,0,0,0,6/5/18,Regular,Representative,U.S. House California District 45,CA,317630
+P2018,H8MI06163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,0,28.1,-9.1800003,0,0,0,8/7/18,Regular,Representative,U.S. House Michigan District 6,MI,26595
+P2018,H8VA10122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,White,0,22.959999,4.6900001,0,0,0,6/12/18,Regular,Representative,U.S. House Virginia District 10,VA,173421
+P2018,H8ID01124,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,43.12,0.0,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Idaho District 1,ID,612469
+P2018,H8IL04134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,Nonwhite,1,66.199997,65.089996,On the Ballot,0,1,3/20/18,Regular,Representative,U.S. House Illinois District 4,IL,129001
+P2018,H8CA49090,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.34,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House California District 49,CA,153977
+P2018,H8OH10119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,67.019997,-8.4799995,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House Ohio District 10,OH,13000
+P2018,H8WA03172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,White,0,0.0,-8.510000199999999,0,0,0,8/7/18,Regular,Representative,U.S. House Washington District 3,WA,78
+P2018,H8WV03113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.19,0.0,0,0,0,5/8/18,Regular,Representative,U.S. House West Virginia District 3,WV,500
+P2018,H8NY01155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,35.450001,-11.63,On the Ballot,0,1,6/26/18,Regular,Representative,U.S. House New York District 1,NY,9600
+P2018,H8NJ11233,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21.93,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House New Jersey District 11,NJ,8500
+P2018,H8NY23167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13.44,-13.93,0,0,0,6/26/18,Regular,Representative,U.S. House New York District 23,NY,388
+P2018,H8ME02185,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,46.419998,-8.130000099999998,On the Ballot,0,1,6/12/18,Regular,Representative,U.S. House Maine District 2,ME,71500
+P2018,H8FL17046,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.3,0.0,0,0,0,8/28/18,Regular,Representative,U.S. House Florida District 17,FL,747682
+P2018,H8TX05144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,29.97,0.0,On the Ballot,1,1,3/6/18,Regular,Representative,U.S. House Texas District 5,TX,340105
+P2018,H8CA07056,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,69.15,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 7,CA,17895
+P2018,H8MA03114,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,9/4/18,Regular,Representative,U.S. House Massachusetts District 3,MA,16000
+P2018,H6NY02124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,Nonwhite,0,41.639999,-8.2600002,0,0,0,6/26/18,Regular,Representative,U.S. House New York District 2,NY,9531
+P2018,H8MI11338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White,0,21.799999,-7.179999799999999,0,0,0,8/7/18,Regular,Representative,U.S. House Michigan District 11,MI,243917
+P2018,H8MI11346,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Nonwhite,0,21.299999,-7.179999799999999,0,0,0,8/7/18,Regular,Representative,U.S. House Michigan District 11,MI,7700
+P2018,H8NM01331,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,Nonwhite,1,40.59,13.77,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House New Mexico District 1,NM,501340
+P2018,H8WA08239,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,White,0,0.0,0.12,0,0,0,8/7/18,Regular,Representative,U.S. House Washington District 8,WA,18000
+P2018,H8OH16108,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40.78,0.0,0,0,0,5/8/18,Regular,Representative,U.S. House Ohio District 16,OH,261787
+P2018,H8AL03054,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,1,65.739998,-33.66,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House Alabama District 3,AL,13000
+P2018,H8IN02169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,White,1,41.700001,-23.43,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House Indiana District 2,IN,27000
+P2018,H8CA45155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Nonwhite,0,4.1500001000000015,-1.4299999,0,0,0,6/5/18,Regular,Representative,U.S. House California District 45,CA,11000
+P2018,H8NV03119,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.79,0.0,0,0,0,6/12/18,Regular,Representative,U.S. House Nevada District 3,NV,96461
+P2018,H8CA10126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,White,1,35.57,0.62,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 10,CA,44208
+P2018,H8NV04059,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,47.41,0.0,On the Ballot,0,1,6/12/18,Regular,Representative,U.S. House Nevada District 4,NV,42500
+P2018,H8CA49082,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,52.93,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 49,CA,598664
+P2018,H8NJ11175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Nonwhite,0,14.5,-4.6599998,0,0,0,6/5/18,Regular,Representative,U.S. House New Jersey District 11,NJ,14500
+P2018,H8IA01128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,White,0,19.120001,-1.73,0,0,0,6/5/18,Regular,Representative,U.S. House Iowa District 1,IA,1329
+P2018,H8MT00101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,31.709999,-21.41,0,0,0,6/5/18,Regular,Representative,U.S. House Montana At-large District,MT,5000
+P2018,H8CA16065,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 16,CA,42500
+P2018,H8CA51062,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,49.39,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 51,CA,1250
+P2018,H6MD06212,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,67.76,0.0,On the Ballot,0,1,6/26/18,Regular,Representative,U.S. House Maryland District 6,MD,60000
+P2018,H8TX27056,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,Nonwhite,1,23.299999,-25.809999,On the Ballot,1,1,3/6/18,Regular,Representative,U.S. House Texas District 27,TX,1000
+P2018,H8OK05109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43.84,-17.18,0,On the Ballot,1,6/26/18,Regular,Representative,U.S. House Oklahoma District 5,OK,17500
+P2018,H8PA06087,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,White,1,100.0,5.2399998,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Pennsylvania District 6,PA,191533
+P2018,S8MN00586,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,62.0,0.0,On the Ballot,0,1,8/14/18,Special,Senator,U.S. Senate Minnesota,MN,216819
+P2018,H8TN02176,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,White,1,72.410004,-38.18,On the Ballot,0,1,8/2/18,Regular,Representative,U.S. House Tennessee District 2,TN,134
+P2018,H8CA39224,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11.53,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House California District 39,CA,1059709
+P2018,H8TX23147,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Nonwhite,0,14.98,-0.63,0,0,0,3/6/18,Regular,Representative,U.S. House Texas District 23,TX,143562
+P2018,S8WA00319,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,67.31,0.0,On the Ballot,0,1,8/7/18,Regular,Senator,U.S. Senate Washington,WA,15500
+P2018,H8TX21216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.04,0.0,0,0,0,3/6/18,Regular,Representative,U.S. House Texas District 21,TX,55750
+P2018,H6NJ07151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Nonwhite,0,19.1,-3.26,0,0,0,6/5/18,Regular,Representative,U.S. House New Jersey District 7,NJ,364
+P2018,H8CA49074,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,White,0,31.09,1.42,0,0,0,6/5/18,Regular,Representative,U.S. House California District 49,CA,2411788
+P2018,H8IA04114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White,0,31.92,-25.110001,0,0,0,6/5/18,Regular,Representative,U.S. House Iowa District 4,IA,1000
+P2018,S8MI00372,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,54.7,0.0,On the Ballot,0,1,8/7/18,Regular,Senator,U.S. Senate Michigan,MI,309496
+P2018,H8CA22139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Nonwhite,1,78.83000200000002,-13.41,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 22,CA,42140
+P2018,H8SD01055,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,46.81,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House South Dakota At-large District,SD,77585
+P2018,H8GA12078,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Nonwhite,1,52.860001,-17.629998999999994,On the Ballot,0,1,5/22/18,Regular,Representative,U.S. House Georgia District 12,GA,5000
+P2018,H8MI13243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Nonwhite,1,37.700001,60.720001,On the Ballot,0,1,8/7/18,Special,Representative,U.S. House Michigan District 13,MI,129292
+P2018,H8KS02181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15.9,0.0,0,0,0,8/7/18,Regular,Representative,U.S. House Kansas District 2,KS,1000
+P2018,H8PA13125,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,22.02,0.0,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Pennsylvania District 13,PA,538043
+P2018,H8OH12263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16.88,0.0,0,0,0,5/8/18,Regular,Representative,U.S. House Ohio District 12,OH,354814
+P2018,H8TN07068,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,1,62.110001,-40.209999,On the Ballot,0,1,8/2/18,Regular,Representative,U.S. House Tennessee District 7,TN,479
+P2018,H8GA06369,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,26.25,-9.4799995,0,0,0,5/22/18,Regular,Representative,U.S. House Georgia District 6,GA,95866
+P2018,H8CA48076,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,White,0,37.439999,-4.1799998,0,0,0,6/5/18,Regular,Representative,U.S. House California District 48,CA,909592
+P2018,H8IL12129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,White,1,81.0,-13.26,On the Ballot,0,1,3/20/18,Regular,Representative,U.S. House Illinois District 12,IL,201859
+P2018,S8UT00242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.73,0.0,0,0,0,6/26/18,Regular,Senator,U.S. Senate Utah,UT,78236
+P2018,H8CA49066,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,White,0,8.75,1.42,0,0,0,6/5/18,Regular,Representative,U.S. House California District 49,CA,16157
+P2018,H8MI11270,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14.0,0.0,0,0,0,8/7/18,Regular,Representative,U.S. House Michigan District 11,MI,6527
+P2018,H8MT00119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,24.15,-21.41,0,0,0,6/5/18,Regular,Representative,U.S. House Montana At-large District,MT,73560
+P2018,H8PA05295,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Pennsylvania District 5,PA,2500
+P2018,H8CA39240,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,39.79,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 39,CA,590880
+P2018,H8PA16078,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,White,1,100.0,-27.51,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Pennsylvania District 11,PA,9224
+P2018,H8PA05279,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Nonwhite,0,3.99,25.540001,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 5,PA,7086
+P2018,H8TX21190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,White,1,29.030001,-15.51,On the Ballot,1,1,3/6/18,Regular,Representative,U.S. House Texas District 21,TX,32527
+P2018,H8SD01063,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29.34,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House South Dakota At-large District,SD,334776
+P2018,H8CA04244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,5.25,-18.16,0,0,0,6/5/18,Regular,Representative,U.S. House California District 4,CA,700
+P2018,H6NV04020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,66.910004,-3.0799999,On the Ballot,0,1,6/12/18,Regular,Representative,U.S. House Nevada District 3,NV,254980
+P2018,H8AZ08158,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,35.77,0.0,On the Ballot,0,1,2/27/18,Special,Representative,U.S. House Arizona District 8,AZ,319814
+P2018,H8MI09118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,1,52.5,7.139999900000001,On the Ballot,0,1,8/7/18,Regular,Representative,U.S. House Michigan District 9,MI,346030
+P2018,H8CA49058,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,White,1,34.400002,1.42,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 49,CA,463060
+P2018,H6PA07113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Nonwhite,0,6.98,25.540001,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 5,PA,3950
+P2018,H8CA39307,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21.22,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House California District 39,CA,77862
+P2018,H6FL09195,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,8/28/18,Regular,Representative,U.S. House Florida District 9,FL,5000
+P2018,S8MA00326,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17.9,0.0,0,0,0,9/4/18,Regular,Senator,U.S. Senate Massachusetts,MA,19925
+P2018,H8MI09134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,White,0,42.400002,7.139999900000001,0,0,0,8/7/18,Regular,Representative,U.S. House Michigan District 9,MI,10000
+P2018,H8CA09144,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 9,CA,1000
+P2018,H8KS04088,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,0,34.700001,-29.309999,0,0,0,8/7/18,Regular,Representative,U.S. House Kansas District 4,KS,1250
+P2018,H8MI06155,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,White,1,37.299999,-9.1800003,On the Ballot,0,1,8/7/18,Regular,Representative,U.S. House Michigan District 6,MI,7342
+P2018,H8AZ08133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23.88,0.0,0,0,0,2/27/18,Special,Representative,U.S. House Arizona District 8,AZ,49749
+P2018,H8PA07184,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,White,0,15.31,25.540001,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 5,PA,204269
+P2018,H8VA02111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1,White,1,62.330002,-5.6599998,On the Ballot,0,1,6/12/18,Regular,Representative,U.S. House Virginia District 2,VA,105333
+P2018,H8CA10175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,Nonwhite,0,19.17,0.62,0,0,0,6/5/18,Regular,Representative,U.S. House California District 10,CA,320048
+P2018,H8NJ07223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1,66.800003,-3.26,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House New Jersey District 7,NJ,80508
+P2018,H8NC13067,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,White,1,70.139999,-11.28,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House North Carolina District 13,NC,104644
+P2018,H8MD06150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,White,0,10.3,11.89,0,0,0,6/26/18,Regular,Representative,U.S. House Maryland District 6,MD,93000
+P2018,H8NY21260,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.37,-11.43,0,0,0,6/26/18,Regular,Representative,U.S. House New York District 21,NY,250
+P2018,H8TN06086,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15.9,0.0,0,0,0,8/2/18,Regular,Representative,U.S. House Tennessee District 6,TN,61101
+P2018,H8IL06121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,White,0,26.799999,0.67000002,0,0,0,3/20/18,Regular,Representative,U.S. House Illinois District 6,IL,351048
+P2018,H8UT04053,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,White,1,100.0,-16.809998999999998,On the Ballot,0,1,6/26/18,Regular,Representative,U.S. House Utah District 4,UT,170516
+P2018,H8NE01081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,66.099998,-22.66,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Nebraska District 1,NE,250
+P2018,H8KY06164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,White,1,48.66,-17.41,On the Ballot,0,1,5/22/18,Regular,Representative,U.S. House Kentucky District 6,KY,160520
+P2018,H8NC08083,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,1,56.099998,-16.360001,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House North Carolina District 8,NC,8000
+P2018,S8AZ00221,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,53.0,0.0,On the Ballot,0,1,8/28/18,Regular,Senator,U.S. Senate Arizona,AZ,4575877
+P2018,H8MD06143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,Nonwhite,0,30.700001,11.89,0,0,0,6/26/18,Regular,Representative,U.S. House Maryland District 6,MD,71708
+P2018,H8FL07062,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,53.9,0.0,On the Ballot,0,1,8/28/18,Regular,Representative,U.S. House Florida District 7,FL,45399
+P2018,H8NY11139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Nonwhite,0,3.78,-8.8100004,0,0,0,6/26/18,Regular,Representative,U.S. House New York District 11,NY,5000
+P2018,H8AZ08174,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23.82,0.0,0,0,0,2/27/18,Special,Representative,U.S. House Arizona District 8,AZ,223569
+P2018,H8PA15278,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White,0,30.15,0.07,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 7,PA,526169
+P2018,H8CA04210,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,1,49.099998,-18.16,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 4,CA,12749
+P2018,H8NV03218,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24.56,0.0,0,0,0,6/12/18,Regular,Representative,U.S. House Nevada District 3,NV,90500
+P2018,H8TX07116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,White,0,24.34,-6.809999900000001,0,0,1,3/6/18,Regular,Representative,U.S. House Texas District 7,TX,24682
+P2018,H8OH16181,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,15.54,-17.030001000000002,0,0,0,5/8/18,Regular,Representative,U.S. House Ohio District 16,OH,6000
+P2018,H8CA53084,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,42.73,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 53,CA,521
+P2018,H8OR02179,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Nonwhite,0,23.68,-21.68,0,0,0,5/15/18,Regular,Representative,U.S. House Oregon District 2,OR,1000
+P2018,H8OH15134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,63.540001,-15.48,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House Ohio District 15,OH,16700
+P2018,H8CA39232,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12.45,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House California District 39,CA,862915
+P2018,H8NM02073,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32.03,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House New Mexico District 2,NM,122011
+P2018,S8WI00216,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42.9,0.0,0,0,0,8/14/18,Regular,Senator,U.S. Senate Wisconsin,WI,8414480
+P2018,H8KS03114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,14.3,-4.0100002,0,0,0,8/7/18,Regular,Representative,U.S. House Kansas District 3,KS,21954
+P2018,H8CA48043,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,White,0,3.01,-4.1799998,0,0,0,6/5/18,Regular,Representative,U.S. House California District 48,CA,59
+P2018,H8TN01079,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,White,1,100.0,-57.029999,On the Ballot,0,1,8/2/18,Regular,Representative,U.S. House Tennessee District 1,TN,5750
+P2018,H8MO02216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,White,0,25.200001,-14.18,0,0,0,8/7/18,Regular,Representative,U.S. House Missouri District 2,MO,7500
+P2018,H6CA24246,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,5.54,2.02,0,0,0,6/5/18,Regular,Representative,U.S. House California District 25,CA,67
+P2018,H8SC05174,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,1,59.959999,-19.280001,On the Ballot,0,1,6/12/18,Regular,Representative,U.S. House South Carolina District 5,SC,29250
+P2018,H8CA48159,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,White,0,4.4899998,-4.1799998,0,0,0,6/5/18,Regular,Representative,U.S. House California District 48,CA,5000
+P2018,H8CA42228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,1,76.019997,-15.31,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 42,CA,1059
+P2018,H8NY01163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11.9,-11.63,0,0,0,6/26/18,Regular,Representative,U.S. House New York District 1,NY,1100
+P2018,H8VA10171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,0,3.76,4.6900001,0,0,0,6/12/18,Regular,Representative,U.S. House Virginia District 10,VA,70000
+P2018,H8KY01082,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,25.4,-47.48,0,0,0,5/22/18,Regular,Representative,U.S. House Kentucky District 1,KY,600
+P2018,S8MI00414,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45.3,0.0,0,0,0,8/7/18,Regular,Senator,U.S. Senate Michigan,MI,241500
+P2018,H8ID01173,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11.19,0.0,0,0,0,5/15/18,Regular,Representative,U.S. House Idaho District 1,ID,1000
+P2018,S8MO00145,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8.3,0.0,0,0,0,8/7/18,Regular,Senator,U.S. Senate Missouri,MO,6000
+P2018,H8CA25082,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,White,0,13.24,2.02,0,0,0,6/5/18,Regular,Representative,U.S. House California District 25,CA,3500
+P2018,H8KY04144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,0,37.529999,-36.610001,0,0,0,5/22/18,Regular,Representative,U.S. House Kentucky District 4,KY,1000
+P2018,H8OH07131,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19.799999,-27.18,0,0,0,5/8/18,Regular,Representative,U.S. House Ohio District 7,OH,2740
+P2018,H8TX05128,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21.95,0.0,0,0,1,3/6/18,Regular,Representative,U.S. House Texas District 5,TX,135033
+P2018,H8OH01118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Nonwhite,1,100.0,-9.0100002,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House Ohio District 1,OH,75792
+P2018,H8CA52102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,37.28,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 52,CA,7184
+P2018,H8PA09081,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,0,28.16,-32.029999,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 9,PA,2000
+P2018,H8CA42244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Nonwhite,0,23.98,-15.31,0,0,0,6/5/18,Regular,Representative,U.S. House California District 42,CA,250
+P2018,H8NY21344,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11.91,-11.43,0,0,0,6/26/18,Regular,Representative,U.S. House New York District 21,NY,2500
+P2018,S8NE00182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,63.68,-26.76,On the Ballot,0,1,5/15/18,Regular,Senator,U.S. Senate Nebraska,NE,71600
+P2018,H8PA08141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,White,0,35.330002,-0.63,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 1,PA,148497
+P2018,H6CA23206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,34.25,-25.379999,0,0,0,6/5/18,Regular,Representative,U.S. House California District 23,CA,1000
+P2018,H8TN07100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,White,0,37.889999,-40.209999,0,0,0,8/2/18,Regular,Representative,U.S. House Tennessee District 7,TN,10750
+P2018,H8CA51054,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45.22,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House California District 51,CA,906
+P2018,S8NM00200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,6/5/18,Regular,Senator,U.S. Senate New Mexico,NM,6500
+P2018,H8PA03126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,24.92,-18.73,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 16,PA,5000
+P2018,H8WA08163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,White,0,0.0,0.12,0,0,0,8/7/18,Regular,Representative,U.S. House Washington District 8,WA,31500
+P2018,H8TX02117,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33.03,0.0,0,0,1,3/6/18,Regular,Representative,U.S. House Texas District 2,TX,55750
+P2018,H2AZ09035,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,43.4,0.0,On the Ballot,0,1,8/28/18,Regular,Representative,U.S. House Arizona District 1,AZ,219996
+P2018,H8NY11113,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,62.650002,-8.8100004,On the Ballot,0,1,6/26/18,Regular,Representative,U.S. House New York District 11,NY,99698
+P2018,S8NV00156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,1,77.110001,0.94999999,On the Ballot,0,1,6/12/18,Regular,Senator,U.S. Senate Nevada,NV,438566
+P2018,S8MT00234,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,33.82,0.0,On the Ballot,0,1,6/5/18,Regular,Senator,U.S. Senate Montana,MT,1433687
+P2018,H8WA08205,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,92.09,0.0,On the Ballot,0,1,8/7/18,Regular,Representative,U.S. House Washington District 8,WA,462097
+P2018,H8TX21307,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,27.06,0.0,On the Ballot,1,1,3/6/18,Regular,Representative,U.S. House Texas District 21,TX,740725
+P2018,H8OH12271,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,16.700001,-13.63,0,0,0,5/8/18,Special,Representative,U.S. House Ohio District 12,OH,682
+P2018,H8MI11262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,Nonwhite,0,19.5,-7.179999799999999,0,0,0,8/7/18,Regular,Representative,U.S. House Michigan District 11,MI,96247
+P2018,H8CA26114,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,53.04,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 26,CA,1000
+P2018,S8PA00239,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44.81,0.0,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 14,PA,243213
+P2018,H8TX32148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,White,0,18.35,-4.98,0,0,1,3/6/18,Regular,Representative,U.S. House Texas District 32,TX,9000
+P2018,H8NH01160,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41.6,0.0,0,0,0,9/11/18,Regular,Representative,U.S. House New Hampshire District 1,NH,33500
+P2018,H8VA09058,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,21.360001,-40.709999,0,0,0,6/12/18,Regular,Representative,U.S. House Virginia District 9,VA,250
+P2018,H8TX21315,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.61,0.0,0,0,0,3/6/18,Regular,Representative,U.S. House Texas District 21,TX,9500
+P2018,H8WV02107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,White,0,37.43,-35.330002,0,0,0,5/8/18,Regular,Representative,U.S. House West Virginia District 2,WV,10000
+P2018,H8OH02124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,54.200001,-17.360001,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House Ohio District 2,OH,5500
+P2018,H8MA06133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,9/4/18,Regular,Representative,U.S. House Massachusetts District 6,MA,500
+P2018,H8PA04090,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,White,1,36.330002,-10.86,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Pennsylvania District 10,PA,7000
+P2018,H8WV02115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,White,1,62.57,-35.330002,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House West Virginia District 2,WV,7250
+P2018,H8AZ01237,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18.8,0.0,0,0,0,8/28/18,Regular,Representative,U.S. House Arizona District 1,AZ,53224
+P2018,H8PA07119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,White,0,10.24,25.540001,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 5,PA,243
+P2018,H8TX05094,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11.99,0.0,0,0,0,3/6/18,Regular,Representative,U.S. House Texas District 5,TX,190183
+P2018,H8NJ02216,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30.52,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House New Jersey District 2,NJ,12280
+P2018,H8MI08102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,White,1,70.900002,-8.3299999,On the Ballot,0,1,8/7/18,Regular,Representative,U.S. House Michigan District 8,MI,295543
+P2018,H8AZ01229,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37.8,0.0,0,0,0,8/28/18,Regular,Representative,U.S. House Arizona District 1,AZ,39662
+P2018,H8PA18157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,White,0,19.040001,-28.709999,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 14,PA,5000
+P2018,H8VA07094,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,White,1,72.68,-10.03,On the Ballot,0,1,6/12/18,Regular,Representative,U.S. House Virginia District 7,VA,58450
+P2018,H8NV04042,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,Nonwhite,0,15.24,3.8199999,0,0,0,6/12/18,Regular,Representative,U.S. House Nevada District 4,NV,37500
+P2018,H8IL15056,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,White,0,37.900002,-44.630001,0,0,0,3/20/18,Regular,Representative,U.S. House Illinois District 15,IL,500
+P2018,H8MN08043,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,89.7,0.0,On the Ballot,0,1,8/14/18,Regular,Representative,U.S. House Minnesota District 8,MN,192900
+P2018,H8MI11254,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,White,1,27.0,-7.179999799999999,On the Ballot,0,1,8/7/18,Regular,Representative,U.S. House Michigan District 11,MI,116039
+P2018,H8TX21273,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.76,0.0,0,0,0,3/6/18,Regular,Representative,U.S. House Texas District 21,TX,44500
+P2018,H6AZ03112,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.37,0.0,0,0,0,2/27/18,Special,Representative,U.S. House Arizona District 8,AZ,2501
+P2018,H8IN08141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,1,100.0,-32.509998,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House Indiana District 8,IN,3500
+P2018,H8CA39182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,White,0,20.440001,2.99,0,0,0,6/5/18,Regular,Representative,U.S. House California District 39,CA,5000
+P2018,H8AZ08083,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Nonwhite,1,60.220001,-24.559999,On the Ballot,0,1,2/27/18,Special,Representative,U.S. House Arizona District 8,AZ,171826
+P2018,H8MI13250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,Nonwhite,1,33.200001,60.720001,On the Ballot,0,1,8/7/18,Regular,Representative,U.S. House Michigan District 13,MI,127076
+P2018,H8WI03103,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,8/14/18,Regular,Representative,U.S. House Wisconsin District 3,WI,7000
+P2018,H8IN03076,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,1,79.099998,-35.48,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House Indiana District 3,IN,5500
+P2018,H8KS02157,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23.2,0.0,0,0,0,8/7/18,Regular,Representative,U.S. House Kansas District 2,KS,78775
+P2018,H8PA15237,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23.1,0.0,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 9,PA,2500
+P2018,H8CA35115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,100.0,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House California District 35,CA,171
+P2018,H8MO02208,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,1,41.700001,-14.18,On the Ballot,0,1,8/7/18,Regular,Representative,U.S. House Missouri District 2,MO,19500
+P2018,H8NV04018,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9.1999998,3.8199999,0,0,0,6/12/18,Regular,Representative,U.S. House Nevada District 4,NV,5230
+P2018,H8VA06070,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,White,0,27.190001,-25.959999,0,0,0,6/12/18,Regular,Representative,U.S. House Virginia District 6,VA,250
+P2018,S8WI00224,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,49.0,0.0,On the Ballot,0,1,8/14/18,Regular,Senator,U.S. Senate Wisconsin,WI,4861750
+P2018,H8FL06148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,42.4,0.0,On the Ballot,0,1,8/28/18,Regular,Representative,U.S. House Florida District 6,FL,776723
+P2018,H8FL06122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30.4,0.0,0,0,0,8/28/18,Regular,Representative,U.S. House Florida District 6,FL,469395
+P2018,S6AZ00233,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28.1,0.0,0,0,0,8/28/18,Regular,Senator,U.S. Senate Arizona,AZ,4217736
+P2018,H8KS02199,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,26.2,0.0,On the Ballot,0,1,8/7/18,Regular,Representative,U.S. House Kansas District 2,KS,1184378
+P2018,H8IN09107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,White,1,66.400002,-26.83,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House Indiana District 9,IN,78800
+P2018,H8NC06079,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,White,1,77.199997,-16.73,On the Ballot,0,1,5/8/18,Regular,Representative,U.S. House North Carolina District 6,NC,1000
+P2018,H8NJ11217,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,40.04,0.0,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House New Jersey District 11,NJ,150475
+P2018,H6PA16338,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,White,0,31.290001,-32.029999,0,0,0,5/15/18,Regular,Representative,U.S. House Pennsylvania District 9,PA,2500
+P2018,H8KS03122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,White,0,33.900002,-4.0100002,0,0,0,8/7/18,Regular,Representative,U.S. House Kansas District 3,KS,309424
+P2018,H8NJ04188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,57.200001,-16.01,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House New Jersey District 4,NJ,11500
+P2018,H8AZ08059,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,White,0,39.720001,-24.559999,0,0,0,2/27/18,Special,Representative,U.S. House Arizona District 8,AZ,3425
+P2018,H8TX07132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,White,0,19.16,-6.809999900000001,0,0,0,3/6/18,Regular,Representative,U.S. House Texas District 7,TX,11500
+P2018,H8VA10106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,White,1,41.889999,4.6900001,On the Ballot,0,1,6/12/18,Regular,Representative,U.S. House Virginia District 10,VA,51700
+P2018,H8PA15229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,White,1,33.450001,0.07,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Pennsylvania District 7,PA,472115
+P2018,H8MT01232,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,33.52,-21.41,On the Ballot,0,1,6/5/18,Regular,Representative,U.S. House Montana At-large District,MT,4500
+P2018,H8SC07063,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Nonwhite,1,41.299999,-19.23,On the Ballot,1,1,6/12/18,Regular,Representative,U.S. House South Carolina District 7,SC,500
+P2018,S8UT00143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,White,1,100.0,-28.1,On the Ballot,0,1,6/26/18,Regular,Senator,U.S. Senate Utah,UT,47000
+P2018,H8TN06144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,0,22.059999,-49.110001,0,0,0,8/2/18,Regular,Representative,U.S. House Tennessee District 6,TN,805
+P2018,H8PA11095,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,White,1,40.549999,-32.029999,On the Ballot,0,1,5/15/18,Regular,Representative,U.S. House Pennsylvania District 9,PA,38500
+P2018,H8CA24150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21.63,0.0,0,0,0,6/5/18,Regular,Representative,U.S. House California District 24,CA,41000
+P2018,H8TX05136,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11.42,0.0,0,0,0,3/6/18,Regular,Representative,U.S. House Texas District 5,TX,74636
+P2018,H8IL10123,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34.7,0.0,0,0,0,3/20/18,Regular,Representative,U.S. House Illinois District 10,IL,6000
+P2018,H8NJ02141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Nonwhite,0,19.200001,-3.96,0,0,0,6/5/18,Regular,Representative,U.S. House New Jersey District 2,NJ,11500
+P2018,H8CA48050,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,White,0,1.6,-4.1799998,0,0,0,6/5/18,Regular,Representative,U.S. House California District 48,CA,250
